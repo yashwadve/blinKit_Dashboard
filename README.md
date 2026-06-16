@@ -22,7 +22,7 @@ Business Problem: Hard to get a unified view of sales by item category, outlet s
 
 Goal: One interactive dashboard to filter and compare total sales, avg sales, item count, and ratings across outlets.
 
-Key Visuals:
+Key Visuals:<br>
 KPI cards – Total Sales ($1.20M), Avg Sales ($141), Items (8,523), Avg Rating (3.9)<br>
 Filter panel – Outlet Location Type, Outlet Size, Item Type<br>
 Fat Content donut – Low Fat vs Regular sales split<br>
@@ -31,7 +31,7 @@ Outlet Establishment trend – sales by year (2012–2022)<br>
 Outlet Size & Location charts – Small/Medium/High, Tier 1/2/3<br>
 Outlet Type table – Sales, Items, Avg Sales, Rating, Visibility by outlet
 
-Insights:
+Insights:<br>
 Supermarket Type1 drives most revenue ($787.55K of $1.20M)<br>
 Tier 3 outlets generate the highest sales ($472.13K)<br>
 Regular fat items outsell Low Fat across all tiers<br>
