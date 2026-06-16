@@ -1,9 +1,9 @@
 # BlinkIT Dashboard
-### 1.	Project Title / Headline
+## 1.	Project Title 
 🛒 **BlinkIT Sales & Outlet Performance Dashboard**
  An interactive Power BI dashboard analyzing sales performance across BlinkIT's grocery outlets — covering item sales, fat content trends, outlet history, and outlet-wise metrics.
  
-## 2. Short Description / Purpose
+## 2. Short Description 
 A Power BI report that helps analyze sales across 8,500+ items and multiple outlet types/sizes/locations, highlighting total/average sales, ratings, and fat content trends — built for retail analysts and decision-makers.
  
 ## 3. Tech Stack
@@ -39,6 +39,6 @@ A Power BI report that helps analyze sales across 8,500+ items and multiple outl
 - 2018-established outlets show a sales spike ($205K)
 
 
-### 6.	Screenshots / Demos
-Show what the dashboard looks like.
+### 6.	Screenshot
+Show what the dashboard looks like.<br>
 Example: ![Dashboard Preview](https://github.com/yashwadve/blinKit_Dashboard/blob/main/blinKit%20Dashboard.png)
