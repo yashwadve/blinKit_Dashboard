@@ -40,3 +40,4 @@ Fruits & Vegetables, Snack Foods are top categories ($0.18M each)
 
 6. Screenshots / Demos
 Show what the dashboard looks like -
+https://github.com/yashwadve/blinKit_Dashboard/blob/main/blinKit%20Dashboard.png
