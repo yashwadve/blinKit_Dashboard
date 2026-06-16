@@ -1,23 +1,23 @@
 # blinKit_Dashboard
 
-1. Project Title -
+### 1.	Project Title / Headline
 🛒 BlinkIT Sales & Outlet Performance Dashboard
 An interactive Power BI dashboard analyzing sales performance across BlinkIT's grocery outlets — covering item sales, fat content trends, outlet history, and outlet-wise metrics.
 
-2. Short Description / Purpose -
+### 2.	Short Description / Purpose
 A Power BI report that helps analyze sales across 8,500+ items and multiple outlet types/sizes/locations, highlighting total/average sales, ratings, and fat content trends — built for retail analysts and decision-makers.
 
-3. Tech Stack -
+### 3.	Tech Stack
 📊 Power BI Desktop – Report creation
 🟡 Power Query – Data cleaning & transformation
 🔢 DAX – Calculated measures (Total Sales, Avg Sales, Avg Rating)
 🔗 Data Modeling – Slicers for Outlet Location, Outlet Size, Item Type
 📁 File Format – .pbix (development), .png (preview)
 
-4. Data Source -
+### 4.	Data Source
 BlinkIT_Grocery_Data.xlsx — 8,523 records, 12 columns covering item details (Type, Fat Content, Weight, Visibility), outlet details (Establishment Year, Size, Location Type, Outlet Type), and performance metrics (Sales, Rating). Cleaned in Power Query before loading into the data model.
 
-5. Features / Highlights -
+### 5.	Features / Highlights
 Business Problem: Hard to get a unified view of sales by item category, outlet size, and location without a consolidated dashboard.
 Goal: One interactive dashboard to filter and compare total sales, avg sales, item count, and ratings across outlets.
 Key Visuals:
@@ -36,5 +36,6 @@ Fruits & Vegetables, Snack Foods are top categories ($0.18M each)
 2018-established outlets show a sales spike ($205K)
 
 
-6. Screenshots / Demos -
-Show what the dashboard looks like: https://github.com/yashwadve/blinKit_Dashboard/blob/main/blinKit%20Dashboard.png
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/yashwadve/blinKit_Dashboard/blob/main/blinKit%20Dashboard.png)
